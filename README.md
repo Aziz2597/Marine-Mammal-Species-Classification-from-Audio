@@ -93,6 +93,7 @@ CSV with at least two columns: `file` (filename) and `species` (label). Default:
 
 - **Runtime:** Use Google Colab with a GPU runtime (T4 or better recommended). Ensure runtime type is set to GPU.  
 - **Mount Google Drive:** Update the notebook paths to point to your Drive locations for audio and CSV files.
+- **Public Audio Dataset (Kaggle):** [Marine Mammal Audio Dataset](https://www.kaggle.com/datasets/haarisansari84763/marine-mammal-audio-dataset)
 
 ---
 
